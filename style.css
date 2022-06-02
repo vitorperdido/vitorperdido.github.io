@@ -1,0 +1,21 @@
+body {
+	 /*background:#2ab5bf;*/
+	 background: blue;
+	 background-image:linear-gradient(red, blue);
+	 background-repeat:no-repeat;
+	 font-size: 22px;
+	 color:black;
+	 font-family: 'Secular One', sans-serif;
+}
+
+h1{
+	text-align:center;
+	color:black;
+	font-family: 'Secular One', sans-serif;
+}
+
+
+img{
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
